@@ -5,7 +5,7 @@ generator: {
   mag: 0.739
   thresh: 1.1
   min: 100
-  max: 100
+  max: 115
   radMin: 259
   radMax: 450
   iceChance: 0.5
@@ -18,7 +18,7 @@ defaultCore: core-nouvagrad
 parent: sun
 sectorSize: 2
 startSector: 4
-radius: 1.5
+radius: 3.8
 drawOrbit: true
 atmosphereRadIn: 1.5
 atmosphereRadOut: 3.5
